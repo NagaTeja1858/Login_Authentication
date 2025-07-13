@@ -5,4 +5,4 @@ A simple front-end login system with:
 2.Change password feature
 3.Dynamic display of input fields and Background image & responsive UI
 
-🔗 [Login Authentication](http://127.0.0.1:5500/index.html)
+🔗 [Login Authentication](https://nagateja1858.github.io/Login_Authentication/)
